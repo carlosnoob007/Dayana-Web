@@ -122,4 +122,8 @@ main{
         width: 140px;
         height: 180px;
     }
+    .carta{
+        width: 85%;
+        height: auto;
+    }
 }
